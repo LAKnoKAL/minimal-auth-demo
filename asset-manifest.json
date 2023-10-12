@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minimal-auth-demo/static/css/main.5672d53f.css",
+    "main.js": "/minimal-auth-demo/static/js/main.87f39017.js",
+    "static/js/787.c0a6e599.chunk.js": "/minimal-auth-demo/static/js/787.c0a6e599.chunk.js",
+    "index.html": "/minimal-auth-demo/index.html",
+    "main.5672d53f.css.map": "/minimal-auth-demo/static/css/main.5672d53f.css.map",
+    "main.87f39017.js.map": "/minimal-auth-demo/static/js/main.87f39017.js.map",
+    "787.c0a6e599.chunk.js.map": "/minimal-auth-demo/static/js/787.c0a6e599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5672d53f.css",
+    "static/js/main.87f39017.js"
+  ]
+}
